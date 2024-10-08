@@ -1,11 +1,11 @@
-# Install dependencies
+## Install dependencies
 
 npm i 
 
-# Change path for Mongodb path  in app.module.ts   MongooseModule.forRoot('patj'),
+## Change path for Mongodb path  in app.module.ts   MongooseModule.forRoot('path'),
 
 
-# Run Project
+## Run Project
 
 npm run start:dev
 
